@@ -1,7 +1,7 @@
+def add(a,b):
 
-def name(name):
-
-    print(f"Hi, {name})
+    print(f"Sum = {a+b}")
 
 
-name("Amal")
+add(5,9)
+
