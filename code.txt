@@ -1,0 +1,7 @@
+
+def name(name):
+
+    print(f"Hi, {name})
+
+
+name("Amal")
